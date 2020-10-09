@@ -1,4 +1,4 @@
-# flutter_practise
+# flutter CRUD Operation Project
 
 A new Flutter application.
 
